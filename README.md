@@ -1,10 +1,16 @@
 # RabbitMQ - Demo
 
 <div align="center">
+<a  href="https://www.rabbitmq.com/">
 <img src="https://www.rabbitmq.com/img/rabbitmq-logo-with-name.svg" alt="RabbitMQ" width="300px" height="200px" />
+</a>
 
 This repository contains a simple demo of RabbitMQ using Python with the `pika` library.
 </div>
+
+# What is RabbitMQ?
+
+[RabbitMQ](https://www.rabbitmq.com/) is an open-source message broker that facilitates communication between distributed applications by implementing the `Advanced Message Queuing Protocol (AMQP)`. It acts as an intermediary for messaging, enabling applications to send and receive messages asynchronously, improving scalability, reliability, and decoupling between services. RabbitMQ supports various messaging patterns, including publish/subscribe, request/reply, and work queues, making it widely used in microservices architectures, event-driven systems, and background job processing. It provides features like message persistence, routing, acknowledgments, and clustering, ensuring efficient and fault-tolerant message delivery across different systems.
 
 # Get Started
 
